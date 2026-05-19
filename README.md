@@ -1,3 +1,4 @@
 # Angela-data-analytics-portfolio
 
-I am a Data Analytics student in my senior year with experience in SQL, Excel, and data visualization. This portfolio showcases my coursework and projects. I also have a minor in marketing and would love to pursue marketing analystics.
+Hi, I’m Angela — a Data Analytics student at Southern New Hampshire University pursuing a career in data analytics and marketing analytics.
+This portfolio showcases coursework, personal projects, and data-driven analyses using tools such as: Project with SQL, Excel, and data visualization.
