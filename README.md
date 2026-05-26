@@ -6,7 +6,7 @@ This portfolio showcases coursework, personal projects, and data-driven analyses
 # About Me
 - Data Analytics student currently a senior with 6 credits left (SNHU)
 - Minor in Marketing
-- Interested in marketing analytics and customer behavior
+- Interested in marketing analytics and financial analytics and customer behavior
 - Goal: Data Analyst or any Marketing role
 
 # Skills
@@ -22,4 +22,4 @@ This portfolio showcases coursework, personal projects, and data-driven analyses
 - Excel
 - Git & GitHub
 - Power BI (if you used them)
-- I am willing to learn any progra needed for the job, and i acquire skills quickly. 
+- I am willing to learn any program needed for the job, and i acquire skills quickly. 
